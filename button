@@ -1,0 +1,9 @@
+<form>
+      <label for="firstname"> Firstname :</label>
+      <br /><input type="text" id="firstname" /> <br />
+      <label for="lastname">Lastname :</label><br />
+      <input type="text" id="lastname" />
+      <br />
+      <br />
+      <button type="submit">Submit</button>
+ </form>
